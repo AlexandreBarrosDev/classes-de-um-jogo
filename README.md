@@ -1,3 +1,11 @@
+<h3>
+     <img align="center" src="https://github.com/AlexandreBarrosDev/Portfolio/blob/main/imagens/logoalx.svg">
+</h3>
+
+Desafio proposto pelo instrutor Felipe Aguiar do curso de lógica de programação da Dio.
+
+O desafio foi completo com a criação de uma classe com seu cosntrutor, em seguida foi criado o método de ataque com uma estrutura if/else para identificar o tipo do herói e implementar o tipo de ataque para cada um seguindo as devidas instruões. Foram criadas as instâncias de cada tipo de herói e chamando o método atacar.
+
 Instruções para entrega
 # 3️⃣ Escrevendo as classes de um Jogo
 
